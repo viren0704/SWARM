@@ -1,0 +1,10 @@
+Flight 001
+Drone ID: D001
+Date: 2026-10-04
+Duration: 12 minutes
+Maximum Altitude: 120 meters
+Flight 002
+Drone ID: D002
+Date: 2026-10-05
+Duration: 15 minutes
+Maximum Altitude: 150 meters
